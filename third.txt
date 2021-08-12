@@ -2,4 +2,4 @@ Hi This is third
 
 Chnags
 Now editing starts
-the password is ***REMOVED***
+Now checking the merging command
