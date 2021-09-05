@@ -2,4 +2,4 @@ hi `
 Hi
 
 I am editing the file
-rebase testing from the local 1.0
+rebase testing from the remote
